@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-iChip WebApp is a prototype service page web application designed for clients of a mobile device repair service. The website serves both as an informational platform and as a convenient way for customers to submit repair requests online. With an advanced repair request form and a searchable price list, clients can easily configure a submission and check detailed repair costs for their device.
+**iChip WebApp** is a prototype service page web application designed for clients of a mobile device repair service. The website serves both as an informational platform and as a convenient way for customers to submit repair requests online. With an advanced repair request form and a searchable price list, clients can easily configure a submission and check detailed repair costs for their device.
 
 ## Key Features
 
@@ -30,7 +30,7 @@ The project currently uses Vite 5.x. An upgrade to Vite 7.x would resolve known 
 
 ## Demo
 
-[Live demo on Vercel](#) _(https://ichip-webapp.vercel.app)_
+[ichip-webapp.vercel.app](https://ichip-webapp.vercel.app/)
 
 ---
 
@@ -129,8 +129,6 @@ Shipping Required: {{shipping_required}}
 
 ---
 
-## Contact
+## Author
 
-For inquiries or collaboration:
-
-- **Portfolio:** [https://marekchodacki.pl](https://marekchodacki.pl)
+[marekchodacki.pl](https://marekchodacki.pl)
