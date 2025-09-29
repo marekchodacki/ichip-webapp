@@ -1,0 +1,11 @@
+[
+  { "name": "Ekspertyza Techniczna Telefonu", "price": "100,00 zł" },
+  { "name": "Ekspertyza Techniczna Zegarka", "price": "50,00 zł" },
+  { "name": "Ekspertyza Techniczna Tabletu", "price": "150,00 zł" },
+  { "name": "Zgranie Danych Gwarancyjnych do 20GB", "price": "50,00 zł" },
+  { "name": "Zgranie Danych Gwarancyjnych od 21GB", "price": "100,00 zł" },
+  { "name": "Zgranie Danych Pogwarancyjnych", "price": "150,00 zł" },
+  { "name": "Czyszczenie głośników itp.", "price": "70,00 zł" },
+  { "name": "Ustawienie i konfiguracja telefonów, kont, aplikacji", "price": "100,00 zł" },
+  { "name": "Aktualizacja Oprogramowania", "price": "100,00 zł" }
+]

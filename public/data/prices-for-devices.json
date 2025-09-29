@@ -1,0 +1,287 @@
+[
+  {
+    "device": "iPhone SE / 5s / 5",
+    "services": [
+      { "name": "Wymiana szyby", "price": "120 zł", "time": "2h (kontakt)" },
+      { "name": "Wymiana wyświetlacza", "price": "120 zł", "time": "20 min" },
+      { "name": "Wymiana wyświetlacza [Original LCD]", "price": "160 zł", "time": "20 min" },
+      { "name": "Wymiana baterii", "price": "120 zł", "time": "20 min" },
+      { "name": "Wymiana portu ładowania", "price": "80 zł", "time": "30 min" },
+      { "name": "Wymiana głośnika rozmów", "price": "80 zł", "time": "20 min" },
+      { "name": "Wymiana kamery głównej", "price": "120 zł", "time": "20 min" },
+      { "name": "Wymiana kamery przedniej/sensora zbliżeniowego", "price": "80 zł", "time": "20 min" },
+      { "name": "Wymiana przycisku HOME", "price": "80 zł", "time": "20 min" },
+      { "name": "Wymiana taśmy POWER/AUDIO", "price": "80 zł", "time": "40 min" },
+      { "name": "Wymiana korpusu", "price": "200 zł", "time": "90 min" }
+    ]
+  },
+  {
+    "device": "iPhone 6 / 6+",
+    "services": [
+      { "name": "Wymiana szyby", "price": "150 zł", "time": "2h (kontakt)" },
+      { "name": "Wymiana wyświetlacza [HQ]", "price": "160 zł", "time": "20 min" },
+      { "name": "Wymiana wyświetlacza [Original LCD]", "price": "200 zł", "time": "20 min" },
+      { "name": "Wymiana baterii", "price": "120 zł", "time": "20 min" },
+      { "name": "Wymiana portu ładowania", "price": "150 zł", "time": "30 min" },
+      { "name": "Wymiana głośnika rozmów", "price": "80 zł", "time": "20 min" },
+      { "name": "Wymiana kamery głównej", "price": "160 zł", "time": "20 min" },
+      { "name": "Wymiana kamery przedniej/sensora zbliżeniowego", "price": "120 zł", "time": "20 min" },
+      { "name": "Wymiana przycisku HOME", "price": "80 zł", "time": "20 min" },
+      { "name": "Wymiana taśmy POWER/AUDIO", "price": "80 zł", "time": "40 min" },
+      { "name": "Wymiana korpusu", "price": "240 zł", "time": "90 min" },
+      { "name": "Wymiana szkiełka aparatu", "price": "80 zł", "time": "90 min" }
+    ]
+  },
+  {
+    "device": "iPhone 6s / 6s+",
+    "services": [
+      { "name": "Wymiana szyby", "price": "150 zł", "time": "2h (kontakt)" },
+      { "name": "Wymiana wyświetlacza [HQ]", "price": "150 zł", "time": "20 min" },
+      { "name": "Wymiana wyświetlacza [Original LCD]", "price": "180 zł", "time": "20 min" },
+      { "name": "Wymiana baterii", "price": "120 zł", "time": "20 min" },
+      { "name": "Wymiana portu ładowania", "price": "150 zł", "time": "30 min" },
+      { "name": "Wymiana głośnika rozmów", "price": "80 zł", "time": "20 min" },
+      { "name": "Wymiana kamery głównej", "price": "160 zł", "time": "20 min" },
+      { "name": "Wymiana kamery przedniej/sensora zbliżeniowego", "price": "120 zł", "time": "20 min" },
+      { "name": "Wymiana przycisku HOME", "price": "80 zł", "time": "20 min" },
+      { "name": "Wymiana taśmy POWER/AUDIO", "price": "120 zł", "time": "40 min" },
+      { "name": "Wymiana korpusu", "price": "240 zł", "time": "90 min" },
+      { "name": "Wymiana szkiełka aparatu", "price": "80 zł", "time": "90 min" }
+    ]
+  },
+  {
+    "device": "iPhone 7 / 7+",
+    "services": [
+      { "name": "Wymiana szyby", "price": "170 zł", "time": "2h (kontakt)" },
+      { "name": "Wymiana wyświetlacza [HQ]", "price": "170 zł / 200 zł", "time": "30 min" },
+      { "name": "Wymiana wyświetlacza [Original LCD]", "price": "150 zł / 250 zł", "time": "30 min" },
+      { "name": "Wymiana baterii", "price": "120 zł", "time": "30 min" },
+      { "name": "Wymiana portu ładowania", "price": "150 zł", "time": "40 min" },
+      { "name": "Wymiana głośnika rozmów", "price": "120 zł", "time": "30 min" },
+      { "name": "Wymiana kamery głównej", "price": "240 zł", "time": "30 min" },
+      { "name": "Wymiana kamery przedniej/sensora zbliżeniowego", "price": "120 zł", "time": "30 min" },
+      { "name": "Naprawa uszkodzonego układu AUDIO iC", "price": "240 zł", "time": "1 dzień" },
+      { "name": "Wymiana taśmy POWER/AUDIO", "price": "120 zł", "time": "90 min" },
+      { "name": "Wymiana korpusu", "price": "360 zł", "time": "1 dzień" },
+      { "name": "Wymiana szkiełka aparatu", "price": "80 zł", "time": "90 min" }
+    ]
+  },
+  {
+    "device": "iPhone 8 / 8+ / SE 2020",
+    "services": [
+      { "name": "Wymiana szyby", "price": "170 zł", "time": "2h (kontakt)" },
+      { "name": "Wymiana wyświetlacza [HQ]", "price": "180 zł / 170 zł", "time": "40 min" },
+      { "name": "Wymiana wyświetlacza [Original LCD]", "price": "300 zł", "time": "40 min" },
+      { "name": "Laserowa wymiana tylnego szkła", "price": "240 zł", "time": "1 dzień" },
+      { "name": "Wymiana baterii", "price": "120 zł", "time": "30 min" },
+      { "name": "Wymiana portu ładowania", "price": "150 zł", "time": "40 min" },
+      { "name": "Wymiana głośnika rozmów", "price": "120 zł", "time": "30 min" },
+      { "name": "Wymiana kamery głównej", "price": "320 zł", "time": "30 min" },
+      { "name": "Wymiana kamery przedniej/sensora zbliżeniowego", "price": "160 zł", "time": "30 min" },
+      { "name": "Wymiana taśmy POWER/AUDIO", "price": "120 zł", "time": "90 min" },
+      { "name": "Wymiana korpusu", "price": "400 zł", "time": "1 dzień" },
+      { "name": "Wymiana szkiełka aparatu", "price": "120 zł", "time": "90 min" }
+    ]
+  },
+  {
+    "device": "iPhone X",
+    "services": [
+      { "name": "Wymiana szyby", "price": "350 zł", "time": "2h (kontakt)" },
+      { "name": "Wymiana wyświetlacza [HQ OLED]", "price": "350 zł", "time": "90 min" },
+      { "name": "Wymiana wyświetlacza [Original OLED]", "price": "500 zł", "time": "90 min" },
+      { "name": "Laserowa wymiana tylnego szkła", "price": "280 zł", "time": "1 dzień" },
+      { "name": "Wymiana baterii", "price": "180 zł", "time": "60 min" },
+      { "name": "Wymiana głośnika rozmów", "price": "180 zł", "time": "90 min" },
+      { "name": "Wymiana kamery głównej", "price": "400 zł", "time": "90 min" },
+      { "name": "Wymiana korpusu", "price": "560 zł", "time": "1 dzień" },
+      { "name": "Wymiana szkiełka aparatu", "price": "160 zł", "time": "90 min" }
+    ]
+  },
+  {
+    "device": "iPhone XR",
+    "services": [
+      { "name": "Wymiana szyby", "price": "300 zł", "time": "2h (kontakt)" },
+      { "name": "Wymiana wyświetlacza [HQ LCD]", "price": "300 zł", "time": "90 min" },
+      { "name": "Wymiana wyświetlacza [Original LCD]", "price": "450 zł", "time": "90 min" },
+      { "name": "Laserowa wymiana tylnego szkła", "price": "280 zł", "time": "1 dzień" },
+      { "name": "Wymiana baterii", "price": "180 zł", "time": "60 min" },
+      { "name": "Wymiana głośnika rozmów", "price": "180 zł", "time": "90 min" },
+      { "name": "Wymiana kamery głównej", "price": "360 zł", "time": "90 min" },
+      { "name": "Wymiana korpusu", "price": "560 zł", "time": "120 min" },
+      { "name": "Wymiana szkiełka aparatu", "price": "160 zł", "time": "90 min" }
+    ]
+  },
+  {
+    "device": "iPhone XS",
+    "services": [
+      { "name": "Wymiana szyby", "price": "350 zł", "time": "2h (kontakt)" },
+      { "name": "Wymiana wyświetlacza [HQ OLED]", "price": "350 zł", "time": "90 min" },
+      { "name": "Wymiana wyświetlacza [Original OLED]", "price": "500 zł", "time": "90 min" },
+      { "name": "Laserowa wymiana tylnego szkła", "price": "320 zł", "time": "1 dzień" },
+      { "name": "Wymiana baterii", "price": "200 zł", "time": "30 min" },
+      { "name": "Wymiana głośnika rozmów", "price": "240 zł", "time": "90 min" },
+      { "name": "Wymiana kamery głównej", "price": "440 zł", "time": "90 min" },
+      { "name": "Wymiana szkiełka aparatu", "price": "160 zł", "time": "90 min" }
+    ]
+  },
+  {
+    "device": "iPhone XS Max",
+    "services": [
+      { "name": "Wymiana szyby", "price": "350 zł", "time": "2h (kontakt)" },
+      { "name": "Wymiana wyświetlacza [HQ OLED]", "price": "350 zł", "time": "60 min" },
+      { "name": "Wymiana wyświetlacza [Original OLED]", "price": "600 zł", "time": "60 min" },
+      { "name": "Laserowa wymiana tylnego szkła", "price": "320 zł", "time": "1 dzień" },
+      { "name": "Wymiana baterii", "price": "200 zł", "time": "60 min" },
+      { "name": "Wymiana głośnika rozmów", "price": "180 zł", "time": "90 min" },
+      { "name": "Wymiana kamery głównej", "price": "440 zł", "time": "90 min" },
+      { "name": "Wymiana korpusu", "price": "640 zł", "time": "90 min" },
+      { "name": "Wymiana szkiełka aparatu", "price": "160 zł", "time": "90 min" }
+    ]
+  },
+  {
+    "device": "iPhone 11",
+    "services": [
+      { "name": "Wymiana szyby", "price": "400 zł", "time": "2h (kontakt)" },
+      { "name": "Wymiana wyświetlacza [HQ OLED]", "price": "400 zł", "time": "60 min" },
+      { "name": "Wymiana wyświetlacza [Original OLED]", "price": "600 zł", "time": "60 min" },
+      { "name": "Laserowa wymiana tylnego szkła", "price": "320 zł", "time": "1 dzień" },
+      { "name": "Wymiana baterii", "price": "200 zł", "time": "60 min" },
+      { "name": "Wymiana głośnika rozmów", "price": "180 zł", "time": "90 min" },
+      { "name": "Wymiana kamery głównej", "price": "360 zł", "time": "90 min" },
+      { "name": "Wymiana korpusu", "price": "640 zł", "time": "90 min" },
+      { "name": "Wymiana szkiełka aparatu", "price": "200 zł", "time": "90 min" }
+    ]
+  },
+  {
+    "device": "iPhone 11 Pro",
+    "services": [
+      { "name": "Wymiana szyby", "price": "450 zł", "time": "2h (kontakt)" },
+      { "name": "Wymiana wyświetlacza [HQ OLED]", "price": "450 zł", "time": "60 min" },
+      { "name": "Wymiana wyświetlacza [Original OLED]", "price": "800 zł", "time": "60 min" },
+      { "name": "Laserowa wymiana tylnego szkła", "price": "360 zł", "time": "1 dzień" },
+      { "name": "Wymiana baterii", "price": "240 zł", "time": "60 min" },
+      { "name": "Wymiana głośnika rozmów", "price": "240 zł", "time": "90 min" },
+      { "name": "Wymiana kamery głównej", "price": "480 zł", "time": "90 min" },
+      { "name": "Wymiana korpusu", "price": "880 zł", "time": "90 min" },
+      { "name": "Wymiana szkiełka aparatu", "price": "200 zł", "time": "90 min" }
+    ]
+  },
+  {
+    "device": "iPhone 11 Pro Max",
+    "services": [
+      { "name": "Wymiana szyby", "price": "500 zł", "time": "2h (kontakt)" },
+      { "name": "Wymiana wyświetlacza [HQ OLED]", "price": "500 zł", "time": "60 min" },
+      { "name": "Wymiana wyświetlacza [Original OLED]", "price": "800 zł", "time": "60 min" },
+      { "name": "Laserowa wymiana tylnego szkła", "price": "400 zł", "time": "1 dzień" },
+      { "name": "Wymiana baterii", "price": "240 zł", "time": "60 min" },
+      { "name": "Wymiana głośnika rozmów", "price": "240 zł", "time": "90 min" },
+      { "name": "Wymiana kamery głównej", "price": "480 zł", "time": "90 min" },
+      { "name": "Wymiana korpusu", "price": "1 040 zł", "time": "90 min" },
+      { "name": "Wymiana szkiełka aparatu", "price": "240 zł", "time": "90 min" }
+    ]
+  },
+  {
+    "device": "iPhone 12",
+    "services": [
+      { "name": "Wymiana szyby", "price": "500 zł", "time": "2h (kontakt)" },
+      { "name": "Wymiana wyświetlacza [HQ OLED]", "price": "500 zł", "time": "60 min" },
+      { "name": "Wymiana wyświetlacza [Original OLED]", "price": "800 zł", "time": "60 min" },
+      { "name": "Laserowa wymiana tylnego szkła", "price": "400 zł", "time": "1 dzień" },
+      { "name": "Wymiana baterii", "price": "240 zł", "time": "60 min" },
+      { "name": "Wymiana głośnika rozmów", "price": "240 zł", "time": "90 min" },
+      { "name": "Wymiana korpusu", "price": "1 040 zł", "time": "90 min" },
+      { "name": "Wymiana szkiełka aparatu", "price": "240 zł", "time": "90 min" }
+    ]
+  },
+  {
+    "device": "iPhone 12 mini",
+    "services": [
+      { "name": "Wymiana szyby", "price": "500 zł", "time": "2h (kontakt)" },
+      { "name": "Wymiana wyświetlacza [HQ OLED]", "price": "500 zł", "time": "60 min" },
+      { "name": "Wymiana wyświetlacza [Original OLED]", "price": "800 zł", "time": "60 min" },
+      { "name": "Laserowa wymiana tylnego szkła", "price": "400 zł", "time": "1 dzień" },
+      { "name": "Wymiana baterii", "price": "240 zł", "time": "60 min" },
+      { "name": "Wymiana głośnika rozmów", "price": "240 zł", "time": "90 min" },
+      { "name": "Wymiana korpusu", "price": "1 040 zł", "time": "90 min" },
+      { "name": "Wymiana szkiełka aparatu", "price": "240 zł", "time": "90 min" }
+    ]
+  },
+  {
+    "device": "iPhone 12 Pro",
+    "services": [
+      { "name": "Wymiana szyby", "price": "500 zł", "time": "2h (kontakt)" },
+      { "name": "Wymiana wyświetlacza [HQ OLED]", "price": "600 zł", "time": "60 min" },
+      { "name": "Wymiana wyświetlacza [Original OLED]", "price": "900 zł", "time": "60 min" },
+      { "name": "Laserowa wymiana tylnego szkła", "price": "400 zł", "time": "1 dzień" },
+      { "name": "Wymiana baterii", "price": "240 zł", "time": "60 min" },
+      { "name": "Wymiana głośnika rozmów", "price": "240 zł", "time": "90 min" },
+      { "name": "Wymiana korpusu", "price": "1 040 zł", "time": "90 min" },
+      { "name": "Wymiana szkiełka aparatu", "price": "240 zł", "time": "90 min" }
+    ]
+  },
+  {
+    "device": "iPhone 12 Pro Max",
+    "services": [
+      { "name": "Wymiana szyby", "price": "600 zł", "time": "2h (kontakt)" },
+      { "name": "Wymiana wyświetlacza [HQ OLED]", "price": "900 zł", "time": "60 min" },
+      { "name": "Wymiana wyświetlacza [Original OLED]", "price": "1100 zł", "time": "60 min" },
+      { "name": "Laserowa wymiana tylnego szkła", "price": "400 zł", "time": "1 dzień" },
+      { "name": "Wymiana baterii", "price": "240 zł", "time": "60 min" },
+      { "name": "Wymiana głośnika rozmów", "price": "240 zł", "time": "90 min" },
+      { "name": "Wymiana korpusu", "price": "1 040 zł", "time": "90 min" },
+      { "name": "Wymiana szkiełka aparatu", "price": "240 zł", "time": "90 min" }
+    ]
+  },
+  {
+    "device": "iPhone 13",
+    "services": [
+      { "name": "Wymiana szyby", "price": "600 zł", "time": "2h (kontakt)" },
+      { "name": "Wymiana wyświetlacza [HQ OLED]", "price": "900 zł", "time": "60 min" },
+      { "name": "Wymiana wyświetlacza [Original OLED]", "price": "1200 zł", "time": "60 min" },
+      { "name": "Laserowa wymiana tylnego szkła", "price": "400 zł", "time": "1 dzień" },
+      { "name": "Wymiana baterii", "price": "240 zł", "time": "60 min" },
+      { "name": "Wymiana głośnika rozmów", "price": "240 zł", "time": "90 min" },
+      { "name": "Wymiana korpusu", "price": "1 040 zł", "time": "90 min" },
+      { "name": "Wymiana szkiełka aparatu", "price": "240 zł", "time": "90 min" }
+    ]
+  },
+  {
+    "device": "iPhone 13 mini",
+    "services": [
+      { "name": "Wymiana szyby", "price": "600 zł", "time": "2h (kontakt)" },
+      { "name": "Wymiana wyświetlacza [HQ OLED]", "price": "900 zł", "time": "60 min" },
+      { "name": "Wymiana wyświetlacza [Original OLED]", "price": "1000 zł", "time": "60 min" },
+      { "name": "Laserowa wymiana tylnego szkła", "price": "400 zł", "time": "1 dzień" },
+      { "name": "Wymiana baterii", "price": "240 zł", "time": "60 min" },
+      { "name": "Wymiana głośnika rozmów", "price": "240 zł", "time": "90 min" },
+      { "name": "Wymiana korpusu", "price": "1 040 zł", "time": "90 min" },
+      { "name": "Wymiana szkiełka aparatu", "price": "240 zł", "time": "90 min" }
+    ]
+  },
+  {
+    "device": "iPhone 13 Pro",
+    "services": [
+      { "name": "Wymiana szyby", "price": "600 zł", "time": "2h (kontakt)" },
+      { "name": "Wymiana wyświetlacza [HQ OLED]", "price": "1000 zł", "time": "60 min" },
+      { "name": "Wymiana wyświetlacza [Original OLED]", "price": "1200 zł", "time": "60 min" },
+      { "name": "Laserowa wymiana tylnego szkła", "price": "400 zł", "time": "1 dzień" },
+      { "name": "Wymiana baterii", "price": "240 zł", "time": "60 min" },
+      { "name": "Wymiana głośnika rozmów", "price": "240 zł", "time": "90 min" },
+      { "name": "Wymiana korpusu", "price": "1 040 zł", "time": "90 min" },
+      { "name": "Wymiana szkiełka aparatu", "price": "240 zł", "time": "90 min" }
+    ]
+  },
+  {
+    "device": "iPhone 13 Pro Max",
+    "services": [
+      { "name": "Wymiana szyby", "price": "700 zł", "time": "2h (kontakt)" },
+      { "name": "Wymiana wyświetlacza [HQ OLED]", "price": "1000 zł", "time": "60 min" },
+      { "name": "Wymiana wyświetlacza [Original OLED]", "price": "1500 zł", "time": "60 min" },
+      { "name": "Laserowa wymiana tylnego szkła", "price": "400 zł", "time": "1 dzień" },
+      { "name": "Wymiana baterii", "price": "240 zł", "time": "60 min" },
+      { "name": "Wymiana głośnika rozmów", "price": "240 zł", "time": "90 min" },
+      { "name": "Wymiana korpusu", "price": "1 040 zł", "time": "90 min" },
+      { "name": "Wymiana szkiełka aparatu", "price": "240 zł", "time": "90 min" }
+    ]
+  }
+]

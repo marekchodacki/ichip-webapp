@@ -1,0 +1,58 @@
+{
+  "name": "ichip-webapp",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Service web page with repair request form, searchable price list, company details and location.",
+  "keywords": [
+    "vue3",
+    "vite",
+    "tailwindcss",
+    "typescript",
+    "zod",
+    "vee-validate",
+    "emailjs",
+    "vue-router"
+  ],
+  "homepage": "https://ichip-webapp.vercel.app",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marekchodacki/ichip-webapp"
+  },
+  "bugs": {
+    "url": "https://github.com/marekchodacki/ichip-webapp/issues"
+  },
+	"author": {
+		"name": "marekchodacki",
+		"url": "https://github.com/marekchodacki"
+	},
+  "scripts": {
+    "dev": "vite",
+    "build": "run-p type-check \"build-only {@}\" --",
+    "preview": "vite preview",
+    "build-only": "vite build",
+    "type-check": "vue-tsc --build --force"
+  },
+  "dependencies": {
+    "@emailjs/browser": "^4.4.1",
+    "@vee-validate/zod": "^4.14.7",
+    "vee-validate": "^4.14.7",
+    "vue": "^3.5.12",
+    "vue-router": "^4.4.5",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "@tsconfig/node22": "^22.0.0",
+    "@types/node": "^22.9.0",
+    "@vitejs/plugin-vue": "^5.1.4",
+    "@vue/tsconfig": "^0.5.1",
+    "autoprefixer": "^10.4.20",
+    "npm-run-all2": "^7.0.1",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^3.4.15",
+    "typescript": "^5.9.2",
+    "vite": "^5.4.10",
+    "vite-plugin-vue-devtools": "^7.5.4",
+    "vue-tsc": "^2.1.10"
+  }
+}
